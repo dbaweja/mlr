@@ -21,7 +21,8 @@ The dataset being used is:
 Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
 
 ## Conclusions
-- 
+- Our model has a r2-score of over .831 which is very good
+- Our model has 16 feature variables which are used to predict the total count of rides
 
 ## Technologies Used
 - numpy
